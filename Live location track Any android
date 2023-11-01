@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IP Tracker</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>IP Tracker</h1>
+    <div id="ipInfo">
+      <p><strong>Your IP Address:</strong> <span id="ipAddress"></span></p>
+      <p><strong>Location:</strong> <span id="location"></span></p>
+      <p><strong>ISP:</strong> <span id="isp"></span></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
